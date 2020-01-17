@@ -1,0 +1,11 @@
+﻿PORT,Service,Meaning,Preferred Status
+21,FTP,Transfer files from one host to another,Close
+22,SSH,Secure File Transfer Protocol,Close
+23,Telnet,provide a bidirectional interactive text-oriented communication,Close
+80,HTTP,Hyper test transfer protocol,Open
+443,HTTPS,Hypertext transfer protocol secured,Open
+445,SMB,"Providing shared access to files, printers, serial ports",Close
+1433,MSSQL,Store and retrieve data as requested by other software applications,Close
+1521,ORACLE,Access oracle database from web.,Close
+3306,MySQL,Access MySQL database from web.,Close
+3389,Remote Desktop,allow remote access and remote collaboration,Close
